@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1, Disney Chanel TV https://s1.hopslan.com/disney/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nickelodeon TV 
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1, Kika TV
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master-1080p-6628.m3u8
+#EXTINF:-1, ORF1 TV
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
+#EXTINF:-1, ORF2 TV
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
+#EXTINF:-1, ORF3 TV
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
+#EXTINF:-1, Tagesschau24 TV
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1216_av-p.m3u8
